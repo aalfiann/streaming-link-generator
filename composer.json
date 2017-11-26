@@ -3,6 +3,7 @@
     "type": "library",
     "description" : "Grab video streaming link from Google Drive.",
     "keywords": ["redirector", "googlevideo", "streaming link", "google drive", "generate link"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Sergey Hartmann",
