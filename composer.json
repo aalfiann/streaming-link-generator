@@ -1,0 +1,21 @@
+{
+    "name": "sergeyhartmann/streaming-link-generator",
+    "type": "library",
+    "description" : "Grab video streaming link from Google Drive.",
+    "keywords": ["redirector", "googlevideo", "streaming link", "google drive", "generate link"],
+    "authors": [
+        {
+            "name": "Sergey Hartmann",
+            "email": "sergeyhartmann@yandex.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "SergeyHartmann\\": "src/"
+        }
+    }
+}
