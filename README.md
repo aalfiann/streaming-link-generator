@@ -35,7 +35,7 @@ Content type: video/mp4
 ```
 
 ## Installation
-The recommended way to install Guzzle is through
+The recommended way to install StreamingLinkGenerator is through
 [Composer](http://getcomposer.org).
 
 ```bash
